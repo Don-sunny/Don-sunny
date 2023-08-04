@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-BC5REOdNzDU/XdW2Q3tTYFI/AAAAAAAAEao/wCTMj7VtRU4kUEBMBvFB_bYC90TqeWXEgCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-BC5REOdNzDU/XdW2Q3tTYFI/AAAAAAAAEao/wCTMj7VtRU4kUEBMBvFB_bYC90TqeWXEgCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Don Sunny</h1>
 <h3 align="center">A passionate Mobile App developer from India</h3>
 
